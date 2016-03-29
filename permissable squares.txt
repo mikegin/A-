@@ -1,4 +1,3 @@
-permissable squares: (x, y)
 (0, 1)
 (1, 1)
 (2, 1)

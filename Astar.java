@@ -182,7 +182,7 @@ public class Astar {
 	}
 	public static void openFile(){
 		try{
-			sc = new Scanner(new File("C:\\Users\\Mike\\Desktop\\p.txt"));
+			sc = new Scanner(new File("C:\\Users\\Mike\\Desktop\\permissible squares.txt"));
 		}
 		catch(Exception e){
 			System.out.println("could not find file");
